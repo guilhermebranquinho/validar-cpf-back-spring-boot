@@ -22,4 +22,5 @@ public class ValidadorController {
 	@GetMapping("/")
 	public String index() {
 		return "{\"mensagem\": \"api itau turma7c\"}";
+	}	
 }
